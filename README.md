@@ -49,6 +49,8 @@ plt.show()
 
 
 ### Tabular Column:
+![WhatsApp Image 2025-10-24 at 19 36 34_4f0c463d](https://github.com/user-attachments/assets/6f9f4016-20d2-4967-b0dc-a18eb78ae576)
+
 
 ### Algorithm:
 1. Initialize Parameters: Set the values for carrier frequency, message frequency, and sampling frequency.
